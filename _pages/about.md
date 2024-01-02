@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). Before I start the Ph.D. program, my knowledge foundation is built around general deep learning and optimization. I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on bilevel learning, nonconvex optimization and reinforcement learning.
+I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on bilevel machine learning, nonconvex optimization and reinforcement learning.
 
 I'm actively looking for industrial research internships. Email me for an updated CV.
 
