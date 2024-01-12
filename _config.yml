@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Han Shen"
 title_separator          : "-"
 name                     : &name "Han Shen"
-description              : &description "Ph.D. candidate"
+description              : &description "Ph.D. candidate at RPI"
 url                      : https://hanshen95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanshen95.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Han Shen"
   avatar           : "eating ice cream.png"
-  bio              : "Ph.D. student. (shenh5@rpi.edu; shenhanhs@gmail.com)"
+  bio              : "Ph.D. candidate. (shenh5@rpi.edu; shenhanhs@gmail.com)"
   location         : 
   employer         :
   pubmed           : 
