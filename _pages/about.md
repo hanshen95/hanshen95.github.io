@@ -146,7 +146,7 @@ reviewer)
 ## Internships
 
 ### IBM Research. (US) 05.2021 - 08.2021
-* Research intern
+
 * Mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
 
