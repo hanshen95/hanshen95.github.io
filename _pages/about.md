@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on bilevel machine learning, nonconvex optimization and reinforcement learning.
+I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on optimization algorihthms, bilevel learning and reinforcement learning.
 
 I'm actively looking for industrial research internships. Email me for an updated CV.
 
@@ -17,13 +17,14 @@ I'm actively looking for industrial research internships. Email me for an update
 ## Research
 
 
-My research spans the areas of optimization and machine learning, covering the following topics:
+My research spans the areas of optimization algorithms and machine learning, covering the following topics:
 
-* <b> Bilevel optimization </b> Bilevel learning is a general learning framework covering a wide range of topics--adversarial learning, hyper-parameter optimization, meta learning, etc. Our research focuses on the the theory foundation and algorithm design for bilevel training. We aim to advance and improve over the current single-level training paradigm with bilevel training framework.
+* <b> Bilevel learning algorithms </b> Bilevel learning is a general learning framework covering a wide range of topics--adversarial learning, hyper-parameter optimization, meta learning, etc. Our research focuses on the the theory foundation and algorithm design for bilevel training. We aim to advance and improve over the current single-level training paradigm with bilevel training framework.
 
 * <b> Reinforcement learning </b> Solving reinforcement learning problems with both online or offline policy optimization algorithms, along with recent focus on AI alginment with reinforcement learning from human feedback.
 
-Designing efficient and principled algorithms have been my pursuit throughout my research years. At the present stage, I am exploring enhancing language model alignment with bilevel training framework.
+I have developed theories and implemented new algorithms in the area of bilevel/multi-objective learning and reinforcement learning over the years, thus gaining a mixure of theoretical and empirical skills.
+At the present stage, I am exploring enhancing language model alignment with reinforcement learning.
 
 <!--Recently, I focus more on-->
 
