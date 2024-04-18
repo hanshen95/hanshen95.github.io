@@ -11,8 +11,6 @@ redirect_from:
 
 I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on optimization algorihthms, bilevel learning and reinforcement learning.
 
-I'm actively looking for industrial research internships. Email me for an updated CV.
-
 
 ## Research
 
@@ -24,13 +22,8 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * <b> Reinforcement learning </b> Solving reinforcement learning problems with both online or offline policy optimization algorithms, along with recent focus on AI alginment with reinforcement learning from human feedback.
 
 I have developed theories and implemented new algorithms in the area of bilevel/multi-objective learning and reinforcement learning over the years, thus gaining a mixure of theoretical and empirical skills.
-At the present stage, I am exploring enhancing language model alignment with reinforcement learning.
 
-<!--Recently, I focus more on-->
 
-<!--
-## On The Job Market
-I'm actively looking for industrial research internships. Email me for an updated CV. -->
 
 
 ## News
