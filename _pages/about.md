@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on optimization algorihthms, bilevel learning and reinforcement learning.
+I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on algorihthm development for machine learning.
 
 
 ## Research
@@ -17,17 +17,18 @@ I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi
 
 My research spans the areas of optimization algorithms and machine learning, covering the following topics:
 
-* <b> Bilevel learning algorithms </b> Bilevel learning is a general learning framework covering a wide range of topics--adversarial learning, hyper-parameter optimization, meta learning, etc. Our research focuses on the the theory foundation and algorithm design for bilevel training. We aim to advance and improve over the current single-level training paradigm with bilevel training framework.
+* <b> Bilevel learning </b> Bilevel learning is a general learning framework covering a wide range of topics--adversarial learning, hyper-parameter optimization, meta learning, etc. Our research focuses on the the theory foundation and algorithm design for bilevel training. We aim to advance and improve over the current single-level training paradigm with bilevel training framework.
 
 * <b> Reinforcement learning </b> Solving reinforcement learning problems with both online or offline policy optimization algorithms, along with recent focus on AI alginment with reinforcement learning from human feedback.
 
-I have developed theories and implemented new algorithms in the area of bilevel/multi-objective learning and reinforcement learning over the years, thus gaining a mixure of theoretical and empirical skills.
+* <b> Multi-objective learning </b> Learn multiple things like multiple objective functions, datasets, modalities efficiently.
 
 
 
 
 ## News
-* [Jan. 2024] Two paper will appear in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
+* [May. 2024] Our new paper is accepted to ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its [arxiv](https://arxiv.org/abs/2402.06886) version. 
+* [Jan. 2024] Two paper accepted in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
 * [Apr. 2023] Our paper is accepted to ICML 2023 [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)] where we study the inexact penalization for bilevel optimization problem and propose an efficient first-order algorithm.
 * [Apr. 2023] Our paper is accepted to IEEE Transactions on Signal Processing (TSP) [Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup](https://arxiv.org/abs/2012.15511).
 * [Jan. 2023] Two paper are accepted to AISTATS 2023! First paper on bilevel optimization under constraints [Alternating Implicit Projected SGD and Its Efficient Variants for Equality-constrained Bilevel Optimization](https://arxiv.org/abs/2211.07096) and second paper on an offline actor-critic algorithm [Distributed Offline Policy Optimization Over Logged Data](https://hanshen95.github.io/).
@@ -41,13 +42,17 @@ I have developed theories and implemented new algorithms in the area of bilevel/
 
 ## Publications
 
+* <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
+*<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
+ICML 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
+
 * <b>Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization</b>\
 *A.F.M. Saif, Xiaodong Cui, <b>Han Shen</b>, Songtao Lu, Brian Kingsbury, Tianyi Chen*\
-to appear in ICASSP 2024.
+ICASSP 2024.
 
 * <b>A Method For Bilevel Optimization With Convex Lower-level Problem</b>\
 *<b>Han Shen</b>, Santiago Paternain, Gaowen Liu, Ramana Kompella, Tianyi Chen*\
-to appear in ICASSP 2024.
+ICASSP 2024.
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
@@ -137,7 +142,7 @@ reviewer)
 
 
 
-## Internships
+## Industry experiences
 
 ### IBM Research. (US) 05.2021 - 08.2021
 
