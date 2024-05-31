@@ -147,7 +147,7 @@ reviewer 2023)
 
 ### IBM Research AI. (US) 05.2024 - Present
 
-* Mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+* Mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 
 ### IBM Research AI. (US) 05.2021 - 08.2021
 
