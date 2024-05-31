@@ -27,7 +27,8 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News
-* [May. 2024] Our new paper is accepted to ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its [arxiv](https://arxiv.org/abs/2402.06886) version. 
+* [May. 2024] I am excited to start my summer intern at IBM, mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+* [May. 2024] Our new paper is accepted to ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its extended [arxiv](https://arxiv.org/abs/2402.06886) version.
 * [Jan. 2024] Two paper accepted in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
 * [Apr. 2023] Our paper is accepted to ICML 2023 [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)] where we study the inexact penalization for bilevel optimization problem and propose an efficient first-order algorithm.
 * [Apr. 2023] Our paper is accepted to IEEE Transactions on Signal Processing (TSP) [Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup](https://arxiv.org/abs/2012.15511).
@@ -44,7 +45,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-ICML 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
+short version accepted to ICML 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
 
 * <b>Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization</b>\
 *A.F.M. Saif, Xiaodong Cui, <b>Han Shen</b>, Songtao Lu, Brian Kingsbury, Tianyi Chen*\
@@ -132,11 +133,11 @@ IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2009.1114
 
 ## Services
 Reviewer for
-* Advances in Neural Information Processing Systems (NeurIPS) 2022 & 2023
-* International Conference on Machine Learning (ICML) 2023 & 2024
-* International Conference on Learning Representation (ICLR) 2022
-* International Conference on Artificial Intelligence and Statistic (AISTATS) 2023 (top
-reviewer)
+* Advances in Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML) 
+* International Conference on Learning Representation (ICLR) 
+* International Conference on Artificial Intelligence and Statistic (AISTATS) (top
+reviewer 2023)
 * IEEE Transactions on Signal Processing (TSP)
 
 
@@ -144,7 +145,11 @@ reviewer)
 
 ## Industry experiences
 
-### IBM Research. (US) 05.2021 - 08.2021
+### IBM Research AI. (US) 05.2024 - Present
+
+* Mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+
+### IBM Research AI. (US) 05.2021 - 08.2021
 
 * Mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
