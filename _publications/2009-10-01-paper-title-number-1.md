@@ -1,3 +1,10 @@
+---
+title: "Publications"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+---
+
+
 See an updated list of publications in my [Google scholar page](https://scholar.google.com/citations?user=UeWSr6oAAAAJ&hl=en).
 
 ## Conference publications
