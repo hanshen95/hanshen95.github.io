@@ -2,8 +2,6 @@
 permalink: /publication_list/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publication_list/
 ---
 
 See an updated list of publications in my [Google scholar page](https://scholar.google.com/citations?user=UeWSr6oAAAAJ&hl=en).
