@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. My research generally focuses on algorihthm development for machine learning.
+I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. At the institute, my research generally focuses on algorihthm development for machine learning, especially from the perspective of optimization.
 
+I worked as a research scientist intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) mentored by [Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui). Currently, I am fortunate to work as a research scientist intern mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en). At IBM, my reserach generally focuses on safe fine-tuning of language models.
 
+<!--
 ## Research
 
 
@@ -22,12 +24,12 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * <b> Reinforcement learning </b> Solving reinforcement learning problems with both online or offline policy optimization algorithms, along with recent focus on AI alginment with reinforcement learning from human feedback.
 
 * <b> Multi-objective learning </b> Learn multiple things like multiple objective functions, datasets, modalities efficiently.
-
+-->
 
 
 
 ## News
-* [May. 2024] I am excited to start my summer intern at IBM Research AI, mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+* [May. 2024] I am excited to start my summer intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) on safe language model fine-tuning, mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 * [May. 2024] Our new paper is accepted to ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its extended [arxiv](https://arxiv.org/abs/2402.06886) version.
 * [Jan. 2024] Two paper accepted in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
 * [Apr. 2023] Our paper is accepted to ICML 2023 [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)] where we study the inexact penalization for bilevel optimization problem and propose an efficient first-order algorithm.
@@ -41,52 +43,19 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 
-## Publications
+## Representative publications
 
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
 conference version accepted to ICML 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
 
-* <b>Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization</b>\
-*A.F.M. Saif, Xiaodong Cui, <b>Han Shen</b>, Songtao Lu, Brian Kingsbury, Tianyi Chen*\
-ICASSP 2024.
-
-* <b>A Method For Bilevel Optimization With Convex Lower-level Problem</b>\
-*<b>Han Shen</b>, Santiago Paternain, Gaowen Liu, Ramana Kompella, Tianyi Chen*\
-ICASSP 2024.
-
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
 conference version accepted to ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)]
 
-* <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
-*<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
-IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2012.15511)]
-
-* <b>Alternating projected SGD for equality-constrained bilevel optimization</b>\
-*Quan Xiao, <b>Han Shen</b>, Wotao Yin, Tianyi Chen*\
-AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
-
-* <b>A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences</b>\
-*<b>Han Shen</b>, Tianyi Chen*\
-NeurIPS 2022 (oral). [[arxiv](https://arxiv.org/abs/2206.10414)]
-
-* <b>Distributed Offline Policy Optimization Over Batch Data</b>\
-*<b>Han Shen</b>, Songtao Lu, Xiaodong Cui, Tianyi Chen*\
-AISTATS 2022. [[html](https://proceedings.mlr.press/v206/shen23b.html)]
-
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
-ICLR 2022. [[arxiv](https://arxiv.org/abs/2210.12624)]
-
-* <b>Adaptive Temporal Difference Learning with Linear Function Approximation</b>\
-*Tao Sun, <b>Han Shen</b>, Tianyi Chen, Dongsheng Li*\
- IEEE Transactions on Pattern Analysis and Machine Intelligence. [[arxiv](https://arxiv.org/abs/2002.08537)]
-
-* <b>Byzantine-resilient Decentralized Policy Evaluation with Linear Function Approximation</b>\
-*Zhaoxian Wu, <b>Han Shen</b>, Tianyi Chen, Qing Ling*\
-IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2009.11146)]
-
+ICLR 2022 <b>oral</b>. [[arxiv](https://arxiv.org/abs/2210.12624)]
 
 <!--
 ## Under Review or Preprint Version <!-- Submitted for Publications
@@ -132,12 +101,12 @@ IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2009.1114
 
 
 ## Services
-Reviewer for
+Reviewer/program committee for
 * Advances in Neural Information Processing Systems (NeurIPS)
 * International Conference on Machine Learning (ICML) 
 * International Conference on Learning Representation (ICLR) 
-* International Conference on Artificial Intelligence and Statistic (AISTATS) (top
-reviewer 2023)
+* International Conference on Artificial Intelligence and Statistic (AISTATS)
+* Annual AAAI Conference on Artificial Intelligence (AAAI)
 * IEEE Transactions on Signal Processing (TSP)
 
 
