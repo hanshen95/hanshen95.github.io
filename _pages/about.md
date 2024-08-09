@@ -11,7 +11,8 @@ redirect_from:
 
 I am currently a Ph.D. student advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) at [RPI](https://www.rpi.edu/). I was fortunate to join Prof. Tianyi Chen's group as the first Ph.D. student and grow with the research group till today. At the institute, my research generally focuses on algorihthm development for machine learning, especially from the perspective of optimization.
 
-I worked as a research scientist intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) mentored by [Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui). Currently, I am fortunate to work as a research scientist intern mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en). At IBM, my reserach generally focuses on safe fine-tuning of language models.
+I worked on safety fine-tuning of LLMs as a research scientist intern mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en) in 2024 summer. 
+Prior to this, I also worked on offline reinforcement learning algorithms as a research scientist intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) mentored by [Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
 <!--
 ## Research
@@ -55,7 +56,7 @@ conference version accepted to ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
-ICLR 2022 <b>oral</b>. [[arxiv](https://arxiv.org/abs/2210.12624)]
+ICLR 2023 <b>oral</b>. [[arxiv](https://arxiv.org/abs/2210.12624)]
 
 <!--
 ## Under Review or Preprint Version <!-- Submitted for Publications
