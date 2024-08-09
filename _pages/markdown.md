@@ -27,14 +27,16 @@ ICASSP 2024.
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
 ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)]
 
-* <b>Alternating projected SGD for equality-constrained bilevel optimization</b>\
-*Quan Xiao, <b>Han Shen</b>, Wotao Yin, Tianyi Chen*\
-AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
-
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
 ICLR 2023 (oral). [[arxiv](https://arxiv.org/abs/2210.12624)]
+
+
+* <b>Alternating projected SGD for equality-constrained bilevel optimization</b>\
+*Quan Xiao, <b>Han Shen</b>, Wotao Yin, Tianyi Chen*\
+AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
+
 
 * <b>A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences</b>\
 *<b>Han Shen</b>, Tianyi Chen*\
