@@ -31,14 +31,14 @@ ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.co
 *Quan Xiao, <b>Han Shen</b>, Wotao Yin, Tianyi Chen*\
 AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
 
-* <b>A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences</b>\
-*<b>Han Shen</b>, Tianyi Chen*\
-NeurIPS 2022 (oral). [[arxiv](https://arxiv.org/abs/2206.10414)]
-
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
-ICLR 2022 (oral). [[arxiv](https://arxiv.org/abs/2210.12624)]
+ICLR 2023 (oral). [[arxiv](https://arxiv.org/abs/2210.12624)]
+
+* <b>A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences</b>\
+*<b>Han Shen</b>, Tianyi Chen*\
+NeurIPS 2022 (oral). [[arxiv](https://arxiv.org/abs/2206.10414)]
 
 * <b>Distributed Offline Policy Optimization Over Batch Data</b>\
 *<b>Han Shen</b>, Songtao Lu, Xiaodong Cui, Tianyi Chen*\
