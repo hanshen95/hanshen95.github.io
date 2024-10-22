@@ -46,7 +46,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 
-## Representative works
+## Selected works
 
 * <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
   *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
