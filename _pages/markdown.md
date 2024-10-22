@@ -35,8 +35,7 @@ ICASSP 2024.
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)]
-
+ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)]
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
