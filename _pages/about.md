@@ -30,6 +30,9 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News
+* [Oct. 2024] New paper on LLM post-training via bilevel/bi-objective optimization:  
+  * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
+  * [Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning](https://arxiv.org/abs/2410.15483)
 * [May. 2024] I am excited to start my summer intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) on safe language model fine-tuning, mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 * [May. 2024] Our new paper is accepted to ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its extended [arxiv](https://arxiv.org/abs/2402.06886) version.
 * [Jan. 2024] Two paper accepted in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
@@ -37,26 +40,33 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * [Apr. 2023] Our paper is accepted to IEEE Transactions on Signal Processing (TSP) [Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup](https://arxiv.org/abs/2012.15511).
 * [Jan. 2023] Two paper are accepted to AISTATS 2023! First paper on bilevel optimization under constraints [Alternating Implicit Projected SGD and Its Efficient Variants for Equality-constrained Bilevel Optimization](https://arxiv.org/abs/2211.07096) and second paper on an offline actor-critic algorithm [Distributed Offline Policy Optimization Over Logged Data](https://hanshen95.github.io/).
 * [Jan. 2023] Our paper is selected as oral (<b>top 5%</b>) in ICLR 2023 [Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Stochastic Approach](https://arxiv.org/abs/2210.12624) where we propose a de-biased multi-objective optimization algorithm.
-* [Oct. 2022] Our paper is accepted to NeurIPS 2022 (oral) [A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences](https://arxiv.org/abs/2206.10414) which provides a general complexity analysis for algorithms with multiple sequences.
 
 <!-- <font color="gray"> </font> -->
 
 
 
 
-## Representative publications
+## Representative works
 
+* <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
+  *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
+  \*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
+  
+* <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
+  *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
+  New preprint. [[arxiv](https://arxiv.org/abs/2410.07471)]
+  
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-conference version accepted to ICML 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
+conference version accepted to <b>ICML</b> 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-conference version accepted to ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)]
+conference version accepted to <b>ICML</b> 2023. [[arxiv](https://arxiv.org/abs/2302.05185)]
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
-ICLR 2023 <b>oral</b>. [[arxiv](https://arxiv.org/abs/2210.12624)]
+<b>ICLR 2023 oral</b>. [[arxiv](https://arxiv.org/abs/2210.12624)]
 
 <!--
 ## Under Review or Preprint Version <!-- Submitted for Publications
@@ -115,7 +125,7 @@ Reviewer/program committee for
 
 ## Industry experiences
 
-### IBM Research AI. (US) 05.2024 - Present
+### IBM Research AI. (US) 05.2024 - 08.2024
 
 * Mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 
