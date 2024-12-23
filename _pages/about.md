@@ -30,10 +30,8 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
-* [Dec. 2024] Dec 2024: Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted to <b>Mathematical Programming</b>!
-  
-  * [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) (final version is coming)
-  
+* [Dec. 2024] Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted to <b>Mathematical Programming</b>!
+  * [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) (final version is coming) 
 * [Oct. 2024] New paper on LLM post-training via bilevel/bi-objective optimization:  
   * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
   * [Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning](https://arxiv.org/abs/2410.15483)
@@ -54,7 +52,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-conference version accepted to <b>ICML</b> 2023, extended version accepted to <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
+conference version accepted to <b>ICML</b> 2023, extended work accepted to <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
 
 * <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
   *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
