@@ -21,8 +21,8 @@ ICASSP 2024.
 ICASSP 2024.
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
-*<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-ICML 2023. [[arxiv](https://arxiv.org/abs/2302.05185)] [[code](https://github.com/hanshen95/penalized-bilevel-gradient-descent)]
+*<b>Han Shen</b>, Tianyi Chen*\
+ICML 2023. Extended version accepted to <b>Mathematical Programming</b>. [[PMLR](https://proceedings.mlr.press/v202/shen23c.html)]
 
 * <b>Alternating projected SGD for equality-constrained bilevel optimization</b>\
 *Quan Xiao, <b>Han Shen</b>, Wotao Yin, Tianyi Chen*\
@@ -43,6 +43,10 @@ AISTATS 2022. [[html](https://proceedings.mlr.press/v206/shen23b.html)]
 
 
 ## Journal publications
+
+* <b>On Penalty-based Bilevel Gradient Descent Method</b>\
+*<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
+Extended work of our ICML 2023 publication. Accepted in <b>Mathematical Programming</b>. [[arxiv](https://arxiv.org/abs/2302.05185)]
 
 * <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
 *<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
