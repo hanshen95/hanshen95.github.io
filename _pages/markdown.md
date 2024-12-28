@@ -35,7 +35,7 @@ See an updated list of publications in my [Google scholar page](https://scholar.
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Tianyi Chen*\
-ICML 2023. [[PMLR](https://proceedings.mlr.press/v202/shen23c.html#:~:text=Further%2C%20we%20propose%20the%20penalty-based%20bilevel%20gradient%20descent,proposed%20algorithm.%20Shen%2C%20H.%20%26%20Chen%2C%20T..%20%282023%29.)]
+**ICML 2023**. [[PMLR](https://proceedings.mlr.press/v202/shen23c.html#:~:text=Further%2C%20we%20propose%20the%20penalty-based%20bilevel%20gradient%20descent,proposed%20algorithm.%20Shen%2C%20H.%20%26%20Chen%2C%20T..%20%282023%29.)]
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
