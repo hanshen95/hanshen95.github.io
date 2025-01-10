@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UeWSr6oAAAAJ&hl=en"
   email            : "shenhanhs@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : 
+  github           : "https://github.com/hanshen95"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Semantic Scholar : 
+  Semantic Scholar : "https://www.semanticscholar.org/author/Han-Shen/1491240286"
   dblp             : 
 
 
