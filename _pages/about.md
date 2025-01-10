@@ -52,7 +52,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-conference version accepted to <b>ICML</b> 2023, extended work accepted in <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
+conference version in <b>ICML</b> 2023, extended work accepted in <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
 
 * <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
   *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
@@ -64,7 +64,7 @@ conference version accepted to <b>ICML</b> 2023, extended work accepted in <b>Ma
   
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-conference version accepted to <b>ICML</b> 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
+conference version in <b>ICML</b> 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
