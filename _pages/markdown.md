@@ -19,6 +19,27 @@ See an updated list of publications in my [Google scholar page](https://scholar.
   *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
   New preprint. [[arxiv](https://arxiv.org/abs/2410.07471)]
 
+
+## Journal publications
+
+* <b>On Penalty-based Bilevel Gradient Descent Method</b>\
+*<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
+to appear in **Mathematical Programming** in 2025. [[arxiv](https://arxiv.org/abs/2302.05185)]\
+Extended work of our ICML 2023 paper. 
+
+* <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
+*<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
+**IEEE Transactions on Signal Processing**. [[arxiv](https://arxiv.org/abs/2012.15511)]
+
+* <b>Adaptive Temporal Difference Learning with Linear Function Approximation</b>\
+*Tao Sun, <b>Han Shen</b>, Tianyi Chen, Dongsheng Li*\
+**IEEE Transactions on Pattern Analysis and Machine Intelligence**. [[arxiv](https://arxiv.org/abs/2002.08537)]
+
+* <b>Byzantine-resilient Decentralized Policy Evaluation with Linear Function Approximation</b>\
+*Zhaoxian Wu, <b>Han Shen</b>, Tianyi Chen, Qing Ling*\
+**IEEE Transactions on Signal Processing**. [[arxiv](https://arxiv.org/abs/2009.11146)]
+
+
 ## Conference publications
 
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
@@ -56,24 +77,6 @@ See an updated list of publications in my [Google scholar page](https://scholar.
 **AISTATS 2022**. [[html](https://proceedings.mlr.press/v206/shen23b.html)]
 
 
-## Journal publications
-
-* <b>On Penalty-based Bilevel Gradient Descent Method</b>\
-*<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-Accepted to **Mathematical Programming** in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]\
-Extended work of our ICML 2023 paper. 
-
-* <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
-*<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
-**IEEE Transactions on Signal Processing**. [[arxiv](https://arxiv.org/abs/2012.15511)]
-
-* <b>Adaptive Temporal Difference Learning with Linear Function Approximation</b>\
-*Tao Sun, <b>Han Shen</b>, Tianyi Chen, Dongsheng Li*\
-**IEEE Transactions on Pattern Analysis and Machine Intelligence**. [[arxiv](https://arxiv.org/abs/2002.08537)]
-
-* <b>Byzantine-resilient Decentralized Policy Evaluation with Linear Function Approximation</b>\
-*Zhaoxian Wu, <b>Han Shen</b>, Tianyi Chen, Qing Ling*\
-**IEEE Transactions on Signal Processing**. [[arxiv](https://arxiv.org/abs/2009.11146)]
 
 <!--
 ## Locations of key files/directories
