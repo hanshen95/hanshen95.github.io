@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I obtained my Ph.D. from [RPI](https://www.rpi.edu/) advised by Porf. [Tianyi Chen](https://chentianyi1991.github.io/) in December 2024. I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student and grow with the research group till my graduation. At the institute, my research generally focuses on optimization algorihthm for machine learning, with applications to LLM post-training, reinforcement learning, etc.
+I earned my Ph.D. from [RPI](https://www.rpi.edu/) in December 2024 under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student and to grow with the research group until my graduation. At the institute, my research primarily focused on optimization algorihthm for machine learning, with applications to LLM post-training, reinforcement learning, and more.
 
 I worked on safety fine-tuning of LLMs as a research scientist intern mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en) in 2024 summer. 
 Prior to this, I also worked on offline reinforcement learning algorithms as a research scientist intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) mentored by [Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
