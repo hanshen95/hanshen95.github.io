@@ -30,10 +30,11 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
+* [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in ICLR 2025!
+  * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
 * [Dec. 2024] Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted in [Mathematical Programming](https://link.springer.com/journal/10107)!
   * [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) 
-* [Oct. 2024] New paper on LLM post-training via bilevel/bi-objective optimization:  
-  * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
+* [Oct. 2024] New paper on improved LLM post-training framwork:
   * [Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning](https://arxiv.org/abs/2410.15483)
 * [May. 2024] I am excited to start my summer intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) on safe language model fine-tuning, mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 * [May. 2024] Our new paper is accepted in ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its extended [arxiv](https://arxiv.org/abs/2402.06886) version.
@@ -53,14 +54,14 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
 conference version in <b>ICML</b> 2023, extended work accepted in <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
+  
+* <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
+  *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
+  <b>ICLR 2025</b>. [[arxiv](https://arxiv.org/abs/2410.07471)]
 
 * <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
   *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
   \*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
-  
-* <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
-  *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
-  New preprint. [[arxiv](https://arxiv.org/abs/2410.07471)]
   
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
