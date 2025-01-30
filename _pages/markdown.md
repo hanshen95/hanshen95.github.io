@@ -9,16 +9,6 @@ redirect_from:
 
 See an updated list of publications in my [Google scholar page](https://scholar.google.com/citations?user=UeWSr6oAAAAJ&hl=en).
 
-## New preprints
-
-* <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
-  *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
-  \*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
-  
-* <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
-  *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
-  New preprint. [[arxiv](https://arxiv.org/abs/2410.07471)]
-
 
 ## Journal publications
 
@@ -41,6 +31,10 @@ Extended work of our ICML 2023 paper.
 
 
 ## Conference publications
+
+* <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
+  *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
+  **ICLR 2025**. [[arxiv](https://arxiv.org/abs/2410.07471)]
 
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
@@ -77,7 +71,13 @@ Extended work of our ICML 2023 paper.
 **AISTATS 2022**. [[html](https://proceedings.mlr.press/v206/shen23b.html)]
 
 
+## New preprints
 
+* <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
+  *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
+  \*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
+
+  
 <!--
 ## Locations of key files/directories
 
