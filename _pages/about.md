@@ -30,9 +30,9 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
-* [Feb. 2025] Our extended study off the ICML 2024 paper is accepted in JMLR.
+* [Feb. 2025] Our extended study off the ICML 2024 paper is accepted in <b>JMLR</b>.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
-* [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in ICLR 2025!
+* [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in [ICLR 2025](https://iclr.cc/)!
   * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
 * [Dec. 2024] Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted in [Mathematical Programming](https://link.springer.com/journal/10107)!
   * [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) 
