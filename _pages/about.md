@@ -30,6 +30,8 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
+* [Feb. 2025] Our extended study off the ICML 2024 paper is accepted in JMLR.
+  * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
 * [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in ICLR 2025!
   * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
 * [Dec. 2024] Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted in [Mathematical Programming](https://link.springer.com/journal/10107)!
@@ -40,9 +42,6 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * [May. 2024] Our new paper is accepted in ICML 2024! "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF." Checkout its extended [arxiv](https://arxiv.org/abs/2402.06886) version.
 * [Jan. 2024] Two paper accepted in ICASSP 2024: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization" and "A Method For Bilevel Optimization With Convex Lower-level Problem".
 * [Apr. 2023] Our paper is accepted in ICML 2023 [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) where we study the inexact penalization for bilevel optimization problem and propose an efficient first-order algorithm.
-* [Apr. 2023] Our paper is accepted in IEEE Transactions on Signal Processing (TSP) [Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup](https://arxiv.org/abs/2012.15511).
-* [Jan. 2023] Two paper are accepted in AISTATS 2023! First paper on bilevel optimization under constraints [Alternating Implicit Projected SGD and Its Efficient Variants for Equality-constrained Bilevel Optimization](https://arxiv.org/abs/2211.07096) and second paper on an offline actor-critic algorithm [Distributed Offline Policy Optimization Over Logged Data](https://hanshen95.github.io/).
-* [Jan. 2023] Our paper is selected as oral (<b>top 5%</b>) in ICLR 2023 [Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Stochastic Approach](https://arxiv.org/abs/2210.12624) where we propose a de-biased multi-objective optimization algorithm.
 
 <!-- <font color="gray"> </font> -->
 
@@ -53,7 +52,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-conference version in <b>ICML</b> 2023, extended work accepted in <b>Mathematical Programming</b> in Dec 2024. [[arxiv](https://arxiv.org/abs/2302.05185)]
+conference version in <b>ICML</b> 2023, extended work in <b>Mathematical Programming</b>. [[MAPR](https://link.springer.com/article/10.1007/s10107-025-02194-4)]
   
 * <b>SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection</b>\
   *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
@@ -65,7 +64,7 @@ conference version in <b>ICML</b> 2023, extended work accepted in <b>Mathematica
   
 * <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-conference version in <b>ICML</b> 2024. [[arxiv](https://arxiv.org/abs/2402.06886)]
+conference version in <b>ICML</b> 2024, extended work to appear in <b>JMLR</b> [[arxiv](https://arxiv.org/abs/2402.06886)]
 
 * <b>Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach</b>\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
