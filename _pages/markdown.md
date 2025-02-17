@@ -19,7 +19,7 @@ Extended work of our ICML paper.
 
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-**Mathematical Programming**. [(MAPR)[https://link.springer.com/article/10.1007/s10107-025-02194-4]\
+**Mathematical Programming**. [[MAPR](https://link.springer.com/article/10.1007/s10107-025-02194-4)]\
 Extended work of our ICML paper. 
 
 * <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
