@@ -12,10 +12,15 @@ See an updated list of publications in my [Google scholar page](https://scholar.
 
 ## Journal publications
 
+* <b>Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF</b>\
+*<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
+to appear in **JMLR**. [[arxiv](https://arxiv.org/abs/2402.06886)]\
+Extended work of our ICML paper. 
+
 * <b>On Penalty-based Bilevel Gradient Descent Method</b>\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
-to appear in **Mathematical Programming** in 2025. [[arxiv](https://arxiv.org/abs/2302.05185)]\
-Extended work of our ICML 2023 paper. 
+**Mathematical Programming**. [(MAPR)[https://link.springer.com/article/10.1007/s10107-025-02194-4]\
+Extended work of our ICML paper. 
 
 * <b>Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup</b>\
 *<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
