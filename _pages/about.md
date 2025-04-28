@@ -31,9 +31,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
-
-* [Feb. 2025] Our extended study of the ICML 2024 paper is accepted in <b>JMLR</b>.
-  * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
+* [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en)'s top talent program [Ant Star](https://talent.antgroup.com/ant-star) and work as an AI algorithm researcher on safe LLM post-training.
 * [Feb. 2025] Our extended study of the ICML 2024 paper is accepted in <b>JMLR</b>.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
 * [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in [ICLR 2025](https://iclr.cc/)!
@@ -133,15 +131,15 @@ Reviewer/program committee for
 
 ### Ant Group. (CH) Present
 
-* Working as AI algorithm engineer in [Ant Star](https://talent.antgroup.com/ant-star) talent program.
+* AI algorithm researcher, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
 ### IBM Research AI. (US) 05.2024 - 08.2024
 
-* Mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+* Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 
 ### IBM Research AI. (US) 05.2021 - 08.2021
 
-* Mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
+* Research intern, mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
 
 
