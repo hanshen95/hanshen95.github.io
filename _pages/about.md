@@ -11,7 +11,7 @@ redirect_from:
 
 I earned my Ph.D. from [RPI](https://www.rpi.edu/) in December 2024 under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student and to grow with the research group until my graduation. At the institute, my research primarily focused on optimization algorihthm for machine learning and reinforcement learning, with applications to LLM post-training and more.
 
-After graduation, I joined [Ant Group](https://www.antgroup.com/en)'s top talent program [Ant Star](https://talent.antgroup.com/ant-star), where I primarily work on LLM post-training algorithms with strong safety guarantees.
+After graduation, I joined [Ant Group](https://www.antgroup.com/en)'s top talent program [Ant Star](https://talent.antgroup.com/ant-star), where I currently work on LLM post-training algorithms with strong safety guarantees.
 Prior to this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern mentored by [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and under the management of [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en). 
 I also worked on offline reinforcement learning algorithms as a research scientist intern at [IBM Research AI](https://research.ibm.com/artificial-intelligence) mentored by [Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
@@ -31,7 +31,7 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 ## News and highlights
-* [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en)'s top talent program [Ant Star](https://talent.antgroup.com/ant-star) and work as an AI algorithm researcher on safe LLM post-training.
+* [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en)'s top talent program [Ant Star](https://talent.antgroup.com/ant-star).
 * [Feb. 2025] Our extended study of the ICML 2024 paper is accepted in <b>JMLR</b>.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
 * [Jan. 2025] Our paper on LLM safety fine-tuning is accepted in [ICLR 2025](https://iclr.cc/)!
@@ -131,7 +131,7 @@ Reviewer/program committee for
 
 ### Ant Group. (CH) Present
 
-* AI algorithm researcher, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
+* AI algorithm engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
 ### IBM Research AI. (US) 05.2024 - 08.2024
 
