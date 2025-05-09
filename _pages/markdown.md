@@ -76,11 +76,15 @@ Extended work of our ICML paper.
 **AISTATS 2022**. [[html](https://proceedings.mlr.press/v206/shen23b.html)]
 
 
-## New preprints
+## Preprints
 
 * <b>Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning</b>\
   *Heshan Fernando\*, <b>Han Shen\*</b>, Parikshit Ram, Yi Zhou, Horst Samulowitz, Nathalie Baracaldo, Tianyi Chen*\
   \*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
+
+* <b>Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models</b>\
+*Pin-Yu Chen\*, <b>Han Shen\*</b>, Payel Das, Tianyi Chen*\
+\*equal contribution, new preprint. [[arxiv](https://arxiv.org/abs/2503.20807)]
 
   
 <!--
