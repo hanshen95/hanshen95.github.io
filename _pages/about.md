@@ -129,7 +129,7 @@ Reviewer/program committee for
 
 ## Industry experiences
 
-### Ant Group. (CH) Present
+### Ant Group. (CN) Present
 
 * AI algorithm engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
