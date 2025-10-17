@@ -12,23 +12,8 @@ redirect_from:
 
 I am a senior research engineer with [Ant Group](https://www.antgroup.com/en), where I currently work on a variety of LLM alignment and RL.
 
-Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and frequently collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://sites.google.com/site/lusongtaoee), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers at IBM. My research in IBM focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. At the institute, my research focused on optimization and reinforcement learning.
+Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and frequently collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://sites.google.com/site/lusongtaoee), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers at IBM. My research in IBM focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
 
-
-
-
-<!--
-## Research
-
-
-My research spans the areas of optimization algorithms and machine learning, covering the following topics:
-
-* <b> Bilevel learning </b> Bilevel learning is a general learning framework covering a wide range of topics--adversarial learning, hyper-parameter optimization, meta learning, etc. Our research focuses on the the theory foundation and algorithm design for bilevel training. We aim to advance and improve over the current single-level training paradigm with bilevel training framework.
-
-* <b> Reinforcement learning </b> Solving reinforcement learning problems with both online or offline policy optimization algorithms, along with recent focus on AI alginment with reinforcement learning from human feedback.
-
-* <b> Multi-objective learning </b> Learn multiple things like multiple objective functions, datasets, modalities efficiently.
--->
 
 
 
@@ -38,18 +23,13 @@ My research spans the areas of optimization algorithms and machine learning, cov
 * [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en) via its research talent program [Ant Star](https://talent.antgroup.com/ant-star).
 * [Feb. 2025] Our extended study of the ICML 2024 paper is dual accepted in JMLR.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
-* [Jan. 2025] Our paper is accepted in [ICLR 2025](https://iclr.cc/):
+* [Jan. 2025] Our paper is accepted in ICLR 2025:
   * [SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection](https://arxiv.org/abs/2410.07471)
-* [Dec. 2024] Our extended study of the ICML 2023 paper has been dual accepted in [Mathematical Programming](https://link.springer.com/journal/10107)!
+* [Dec. 2024] Our extended study of the ICML 2023 paper has been dual accepted in Mathematical Programming.
   * [On Penalty-based Bilevel Gradient Descent Method](https://arxiv.org/abs/2302.05185) 
 * [Oct. 2024] New paper on improved LLM alignment framwork:
   * [Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning](https://arxiv.org/abs/2410.15483)
 * [May. 2024] I am excited to start my research internship at [IBM Research AI](https://research.ibm.com/artificial-intelligence).
-
-
-<!-- <font color="gray"> </font> -->
-
-
 
 
 ## Selected works
@@ -76,7 +56,6 @@ My research spans the areas of optimization algorithms and machine learning, cov
 
 
 
-
 ## Services
 Reviewer for
 * Advances in Neural Information Processing Systems (NeurIPS)
@@ -88,12 +67,11 @@ Reviewer for
 
 
 
-
 ## Industry experiences
 
 ### Ant Group. (CN) Present
 
-* Research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
+* Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
 ### IBM Research AI. (US) 05.2024 - 08.2024
 
