@@ -56,15 +56,15 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
 
 ## Industry experiences
 
-#### Ant Group. (CN) Present
+Ant Group. (CN) Present
 
 * Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
-#### IBM Research AI. (US) 05.2024 - 08.2024
+IBM Research AI. (US) 05.2024 - 08.2024
 
 * Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and managed by [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
 
-#### IBM Research AI. (US) 05.2021 - 08.2021
+IBM Research AI. (US) 05.2021 - 08.2021
 
 * Research intern, mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
