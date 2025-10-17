@@ -33,7 +33,7 @@ ICML 2023, extended work in Mathematical Programming. [[arxiv](https://arxiv.org
 
 * Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach\
 *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
-ICLR 2023 (oral). [[arxiv](https://arxiv.org/abs/2210.12624)]
+ICLR 2023 (**oral**). [[arxiv](https://arxiv.org/abs/2210.12624)]
 
 * Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization\
 *A.F.M. Saif, Xiaodong Cui, <b>Han Shen</b>, Songtao Lu, Brian Kingsbury, Tianyi Chen*\
@@ -49,7 +49,7 @@ AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
 
 * A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences\
 *<b>Han Shen</b>, Tianyi Chen*\
-NeurIPS 2022 (Oral). [[arxiv](https://arxiv.org/abs/2206.10414)]
+NeurIPS 2022 (**oral**). [[arxiv](https://arxiv.org/abs/2206.10414)]
 
 
 ## Reinforcement Learning
