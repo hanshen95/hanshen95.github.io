@@ -42,7 +42,7 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
   
 * Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF\
   *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-  ICML 2024, extended work in <b>JMLR</b> [[arxiv](https://arxiv.org/abs/2402.06886)]
+  ICML 2024, extended work in JMLR [[arxiv](https://arxiv.org/abs/2402.06886)]
 
 * Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach\
   *Heshan D. Fernando, <b>Han Shen</b>, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen*\
@@ -70,11 +70,4 @@ IBM Research AI. (US) 05.2021 - 08.2021
 
 
 ## Services
-Reviewer for
-* Advances in Neural Information Processing Systems (NeurIPS)
-* International Conference on Machine Learning (ICML) 
-* International Conference on Learning Representation (ICLR) 
-* International Conference on Artificial Intelligence and Statistic (AISTATS)
-* Annual AAAI Conference on Artificial Intelligence (AAAI)
-* IEEE Transactions on Signal Processing (TSP)
-
+Reviewer for NeurIPS, ICML, ICLR, AISTATS, AAAI and IEEE Transactions on Signal Processing (TSP).
