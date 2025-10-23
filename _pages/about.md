@@ -17,7 +17,7 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
 
 
 ## News and highlights
-* [Sep. 2025] New paper on LLM-RL: [AEnt](https://arxiv.org/abs/2509.03493). Code can be found in [link](https://github.com/antgroup/AEnt). Its [async varaint](https://github.com/inclusionAI/AReaL/recipe/AEnt) is incorporated in [AReaL](https://github.com/inclusionAI/AReaL).
+* [Sep. 2025] New paper on LLM-RL: [AEnt](https://arxiv.org/abs/2509.03493). Code can be found [here](https://github.com/antgroup/AEnt). Its asynchronous implementation is incorporated in the highly scalable RL framework [AReaL](https://github.com/inclusionAI/AReaL).
   * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493)
 * [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en) via its research talent program [Ant Star](https://talent.antgroup.com/ant-star).
 * [Feb. 2025] Our extended study of the ICML 2024 paper is dual accepted in JMLR.
