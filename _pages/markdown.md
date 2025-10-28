@@ -25,7 +25,7 @@ See an updated list of publications in my [Google scholar page](https://scholar.
   \*equal contribution, preprint. [[arxiv](https://arxiv.org/abs/2410.15483)]
 
 
-## Multi-objective/level learning
+## Optimization
 
 * On Penalty-based Bilevel Gradient Descent Method\
 *<b>Han Shen</b>, Quan Xiao, Tianyi Chen*\
