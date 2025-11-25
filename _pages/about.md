@@ -12,7 +12,7 @@ redirect_from:
 
 I am a senior research engineer with [Ant Group](https://www.antgroup.com/en), where I currently work on a variety of LLM alignment and RL.
 
-Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://sites.google.com/site/lusongtaoee), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers at IBM. My research in IBM focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
+Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers at IBM. My research in IBM focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
 
 
 
