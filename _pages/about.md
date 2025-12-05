@@ -12,13 +12,13 @@ redirect_from:
 
 I am a senior research engineer with [Ant Group](https://www.antgroup.com/en), where I currently work on a variety of LLM alignment and RL.
 
-Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers at IBM. My research in IBM focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
+Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) as a research intern and collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers. My research focused on LLM alignment and offline RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/) (now in Cornell Tech) in [RPI](https://www.rpi.edu/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
 
 
 
 ## News and highlights
-* [Sep. 2025] New paper on LLM-RL: [AEnt](https://arxiv.org/abs/2509.03493). Its asynchronous implementation is incorporated in the highly scalable RL framework [AReaL](https://github.com/inclusionAI/AReaL).
-  * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493) [[code](https://github.com/antgroup/AEnt)]
+* [Sep. 2025] New paper on LLM-RL: [AEnt](https://arxiv.org/abs/2509.03493). Its asynchronous implementation is incorporated in the highly scalable RL framework [AReaL](https://github.com/inclusionAI/AReaL/tree/main/recipe/AEnt).
+  * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493) [[paper code](https://github.com/antgroup/AEnt)]
 * [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en) via its research talent program [Ant Star](https://talent.antgroup.com/ant-star).
 * [Feb. 2025] Our extended study of the ICML 2024 paper is dual accepted in JMLR.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
