@@ -56,7 +56,7 @@ NeurIPS 2022 (**oral**). [[arxiv](https://arxiv.org/abs/2206.10414)]
 
 * On Entropy Control in LLM-RL Algorithms \
 *<b>Han Shen</b>*\
-Preprint, [[arxiv](https://arxiv.org/abs/2509.03493)].
+ICLR 2026 [[arxiv](https://arxiv.org/abs/2509.03493)].
 
 * Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF \
 *<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
