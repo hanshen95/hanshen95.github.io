@@ -17,8 +17,8 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
 
 
 ## News and highlights
-* [Sep. 2025] New paper on LLM-RL: [AEnt](https://arxiv.org/abs/2509.03493). Its asynchronous implementation is incorporated in the highly scalable RL framework [AReaL](https://github.com/inclusionAI/AReaL/tree/main/recipe/AEnt).
-  * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493) [[paper code](https://github.com/antgroup/AEnt)]
+* [Jan. 2026] Our paper on LLM-RL is accepted to ICLR 2026. Final version coming to arxiv soon.
+  * [On Entropy Control in LLM-RL Algorithms](https://openreview.net/forum?id=LqazVN5epT) [[paper code](https://github.com/antgroup/AEnt)]
 * [Mar. 2025] I am excited to join [Ant Group](https://www.antgroup.com/en) via its research talent program [Ant Star](https://talent.antgroup.com/ant-star).
 * [Feb. 2025] The extended study of our ICML 2024 paper is accepted in JMLR.
   * ArXiv: [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://arxiv.org/abs/2410.07471)
@@ -31,6 +31,10 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
 
 
 ## Selected works
+
+* On Entropy Control in LLM-RL Algorithms\
+  *<b>Han Shen</b>*\
+  ICLR 2026. [[OpenReview](https://openreview.net/forum?id=LqazVN5epT)]
   
 * SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection\
   *<b>Han Shen</b>, Pin-Yu Chen, Payel Das, Tianyi Chen*\
