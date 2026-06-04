@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Han Shen's Homepage"
 author_profile: true
 redirect_from: 
