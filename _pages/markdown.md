@@ -10,6 +10,33 @@ redirect_from:
 See an updated list of publications in my [Google scholar page](https://scholar.google.com/citations?user=UeWSr6oAAAAJ&hl=en). But here you can find a categorized list of them.
 
 
+## Reinforcement Learning
+
+* On Entropy Control in LLM-RL Algorithms \
+*<b>Han Shen</b>*\
+ICLR 2026 [[arxiv](https://arxiv.org/abs/2509.03493)].
+
+* Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF \
+*<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
+ICML 2024, extended work in JMLR [[arxiv](https://arxiv.org/abs/2402.06886)].
+
+* Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup\
+*<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
+IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2012.15511)]
+
+* Adaptive Temporal Difference Learning with Linear Function Approximation\
+*Tao Sun, <b>Han Shen</b>, Tianyi Chen, Dongsheng Li*\
+TPAMI. [[arxiv](https://arxiv.org/abs/2002.08537)]
+
+* Byzantine-resilient Decentralized Policy Evaluation with Linear Function Approximation\
+*Zhaoxian Wu, <b>Han Shen</b>, Tianyi Chen, Qing Ling*\
+IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2009.11146)]
+
+* Distributed Offline Policy Optimization Over Batch Data\
+*<b>Han Shen</b>, Songtao Lu, Xiaodong Cui, Tianyi Chen*\
+AISTATS 2022. [[paper](https://proceedings.mlr.press/v206/shen23b.html)]
+
+
 ## Alignment
 
 * SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection\
@@ -51,32 +78,6 @@ AISTATS 2023. [[arxiv](https://arxiv.org/abs/2211.07096)]
 *<b>Han Shen</b>, Tianyi Chen*\
 NeurIPS 2022 (**oral**). [[arxiv](https://arxiv.org/abs/2206.10414)]
 
-
-## Reinforcement Learning
-
-* On Entropy Control in LLM-RL Algorithms \
-*<b>Han Shen</b>*\
-ICLR 2026 [[arxiv](https://arxiv.org/abs/2509.03493)].
-
-* Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF \
-*<b>Han Shen</b>, Zhuoran Yang, Tianyi Chen*\
-ICML 2024, extended work in JMLR [[arxiv](https://arxiv.org/abs/2402.06886)].
-
-* Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup\
-*<b>Han Shen</b>, Kaiqing Zhang, Mingyi Hong, Tianyi Chen*\
-IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2012.15511)]
-
-* Adaptive Temporal Difference Learning with Linear Function Approximation\
-*Tao Sun, <b>Han Shen</b>, Tianyi Chen, Dongsheng Li*\
-TPAMI. [[arxiv](https://arxiv.org/abs/2002.08537)]
-
-* Byzantine-resilient Decentralized Policy Evaluation with Linear Function Approximation\
-*Zhaoxian Wu, <b>Han Shen</b>, Tianyi Chen, Qing Ling*\
-IEEE Transactions on Signal Processing. [[arxiv](https://arxiv.org/abs/2009.11146)]
-
-* Distributed Offline Policy Optimization Over Batch Data\
-*<b>Han Shen</b>, Songtao Lu, Xiaodong Cui, Tianyi Chen*\
-AISTATS 2022. [[paper](https://proceedings.mlr.press/v206/shen23b.html)]
 
 
 
