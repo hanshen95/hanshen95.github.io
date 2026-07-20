@@ -10,13 +10,16 @@ redirect_from:
 
 
 
-I am a senior research engineer with [Ant Group](https://www.antgroup.com/en), where I currently focus on LLM reinforcement learning.
+I am a senior algorithm engineer with [Qwen Unit, Alibaba Inc.](https://qwen.ai/home), where I focus on building foundation models driven by real large-scale applications.
 
-Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-intelligence) and collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers. My research at IBM focused on LLM alignment and RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
+Before this, I worked at [Ant Group](https://www.antgroup.com/en), where I focused on doing LLM-RL research and its application in the safety post-training stage of the company's foundation models. 
+
+Before that, I was a research intern with [IBM Research AI](https://research.ibm.com/artificial-intelligence) where I collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers. My research at IBM focused on LLM alignment and RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
 
 
 
 ## News and highlights
+* [Jul. 2026] I joined the Qwen Bussiness Unit of Alibaba Inc., wher I will be working on the LLM-RL foundational algorithms.
 * [May. 2026] One co-authored [paper](https://arxiv.org/abs/2602.11824) accepted in ICML 2026.
 * [Jan. 2026] Our paper on entropy regularization of LLM-RL is accepted in ICLR 2026.
   * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493)
@@ -60,7 +63,11 @@ Before this, I worked in [IBM Research AI](https://research.ibm.com/artificial-i
 
 ## Industry experiences
 
-Ant Group. (CN) Present
+Qwen Unit, Alibaba Inc. Present
+
+* Senior algorithm engineer.
+
+Ant Group. (CN) 03.2025 - 07.2026
 
 * Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
