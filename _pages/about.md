@@ -19,7 +19,7 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
 
 
 ## News and highlights
-* [Jul. 2026] I joined the Qwen Bussiness Unit of Alibaba Inc., wher I will be working on the LLM-RL foundational algorithms.
+* [Jul. 2026] I joined the Qwen Bussiness Unit of Alibaba Inc., where I will be working on the LLM-RL foundational algorithms.
 * [May. 2026] One co-authored [paper](https://arxiv.org/abs/2602.11824) accepted in ICML 2026.
 * [Jan. 2026] Our paper on entropy regularization of LLM-RL is accepted in ICLR 2026.
   * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493)
@@ -65,7 +65,7 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
 
 Qwen Unit, Alibaba Inc. Present
 
-* Senior algorithm engineer.
+* Senior foundational algorithm engineer.
 
 Ant Group. (CN) 03.2025 - 07.2026
 
