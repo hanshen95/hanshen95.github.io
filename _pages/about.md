@@ -34,7 +34,26 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
   * [Mitigating Forgetting in LLM Supervised Fine-Tuning and Preference Learning](https://arxiv.org/abs/2410.15483)
 
 
-## Selected works
+## Industry experiences
+
+Qwen Unit, Alibaba Group. Present
+
+* Senior foundational algorithm engineer.
+
+Ant Group. (CN) 03.2025 - 07.2026
+
+* Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
+
+IBM Research AI. (US) 05.2024 - 08.2024
+
+* Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
+
+IBM Research AI. (US) 05.2021 - 08.2021
+
+* Research intern, mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
+
+
+## Selected research
 
 * On Entropy Control in LLM-RL Algorithms\
   *<b>Han Shen</b>*\
@@ -59,25 +78,6 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
 * A Single-timescale Analysis for Stochastic Approximation with Multiple Coupled Sequences\
   *<b>Han Shen</b>, Tianyi Chen*\
   NeurIPS 2022 Oral. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f6dd92b03ff9be7468a6104611c9187-Abstract-Conference.html)]
-
-
-## Industry experiences
-
-Qwen Unit, Alibaba Group. Present
-
-* Senior foundational algorithm engineer.
-
-Ant Group. (CN) 03.2025 - 07.2026
-
-* Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
-
-IBM Research AI. (US) 05.2024 - 08.2024
-
-* Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
-
-IBM Research AI. (US) 05.2021 - 08.2021
-
-* Research intern, mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
 
 ## Services
