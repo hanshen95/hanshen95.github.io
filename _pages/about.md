@@ -14,8 +14,7 @@ I am a senior algorithm engineer with [Qwen Unit, Alibaba Group](https://qwen.ai
 
 Before this, I worked at [Ant Group](https://www.antgroup.com/en), where I focused on doing LLM-RL research and its application in the safety post-training stage of the company's foundation models. 
 
-Before that, I was a research intern with [IBM Research AI](https://research.ibm.com/artificial-intelligence) where I collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers. My research at IBM focused on LLM alignment and RL. Meanwhile, I did my Ph.D. under the supervision of Dr. [Tianyi Chen](https://chentianyi1991.github.io/). I was fortunate to join Dr. Tianyi Chen's group as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning.
-
+Before that, I did my Ph.D. in Dr. [Tianyi Chen](https://chentianyi1991.github.io/)'s group which I was fortunate to join as the first Ph.D. student. My Ph.D. research focused on optimization and reinforcement learning. Meanwhile, I was a research intern with [IBM Research AI](https://research.ibm.com/artificial-intelligence) where I collaborated with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Songtao Lu](https://songtaogithub.github.io/), [Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui) and many other talented researchers. My research at IBM focused on LLM alignment and RL.
 
 
 ## News and highlights
