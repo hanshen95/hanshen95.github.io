@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a senior algorithm engineer with [Qwen Unit, Alibaba Inc.](https://qwen.ai/home), where I focus on building foundation models driven by real large-scale applications.
+I am a senior algorithm engineer with [Qwen Unit, Alibaba Group](https://qwen.ai/home), where I focus on reinforcement learning for language models with a strong drive toward real-world applications.
 
 Before this, I worked at [Ant Group](https://www.antgroup.com/en), where I focused on doing LLM-RL research and its application in the safety post-training stage of the company's foundation models. 
 
@@ -19,7 +19,7 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
 
 
 ## News and highlights
-* [Jul. 2026] I joined the Qwen Bussiness Unit of Alibaba Inc., where I will be working on the LLM-RL foundational algorithms.
+* [Jul. 2026] I joined the Qwen Bussiness Unit of Alibaba Group, where I will be working on the LLM-RL foundational algorithms.
 * [May. 2026] One co-authored [paper](https://arxiv.org/abs/2602.11824) accepted in ICML 2026.
 * [Jan. 2026] Our paper on entropy regularization of LLM-RL is accepted in ICLR 2026.
   * [On Entropy Control in LLM-RL Algorithms](https://arxiv.org/abs/2509.03493)
@@ -63,7 +63,7 @@ Before that, I was a research intern with [IBM Research AI](https://research.ibm
 
 ## Industry experiences
 
-Qwen Unit, Alibaba Inc. Present
+Qwen Unit, Alibaba Group. Present
 
 * Senior foundational algorithm engineer.
 
