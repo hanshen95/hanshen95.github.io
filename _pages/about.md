@@ -43,13 +43,9 @@ Ant Group. 03.2025 - 07.2026
 
 * Senior research engineer, joined via [Ant Star](https://talent.antgroup.com/ant-star) talent program.
 
-IBM Research AI, T. J. Watson Research Center. 05.2024 - 08.2024
+IBM Research AI, T. J. Watson Research Center. 05.2021 - 08.2021 and 05.2024 - 08.2024
 
-* Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/) and [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en).
-
-IBM Research AI, T. J. Watson Research Center. 05.2021 - 08.2021
-
-* Research intern, mentored by [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
+* Research intern, mentored by [Dr. Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/), [Dr. Payel Das](https://scholar.google.com/citations?user=1vs31MgAAAAJ&hl=en), [Dr. Songtao Lu](https://sites.google.com/site/lusongtaoee) and [Dr. Xiaodong Cui](https://research.ibm.com/people/xiaodong-cui).
 
 
 ## Selected research
